@@ -1,6 +1,7 @@
 #!/usr/bin/python3
-
-# A Python script to export all users data in the JSON format.
+'''
+A Python script to export all users data in the JSON format.
+'''
 
 import json
 import requests
