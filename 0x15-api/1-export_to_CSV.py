@@ -2,9 +2,9 @@
 
 # A Python script to export data in the CSV format.
 
-from sys import argv
-import requests
 import csv
+import requests
+from sys import argv
 
 if __name__ == "__main__":
     if (len(argv) > 1):
